@@ -1,8 +1,8 @@
-# 🎬 Movie Recommendation System
+# Movie Recommendation System
 
 This project is a **Content-Based Movie Recommendation System** built using Python. It suggests movies similar to a user-provided movie title by analyzing textual features like genres, cast, director, keywords, and tagline using TF-IDF vectorization and cosine similarity.
 
-## 📌 Features
+## Features
 
 - Recommends top 10 movies similar to a given movie title.
 - Uses **TF-IDF** and **Cosine Similarity** to compute closeness.
@@ -10,13 +10,13 @@ This project is a **Content-Based Movie Recommendation System** built using Pyth
 - Simple and intuitive CLI interface for users.
 
 
-# 🎬 Content-Based Movie Recommendation System
+# Content-Based Movie Recommendation System
 
 This project is a **content-based movie recommender system** built using Python. It intelligently suggests movies similar to a user's input by analyzing features such as genre, cast, director, and keywords. Using **TF-IDF vectorization** and **cosine similarity**, it matches content patterns to provide personalized recommendations.
 
 ---
 
-## 📊 Dataset Overview
+## Dataset Overview
 
 The dataset contains **3,746 movies** with rich metadata. Here's a snapshot of the schema:
 
@@ -48,7 +48,7 @@ The dataset contains **3,746 movies** with rich metadata. Here's a snapshot of t
 
 ---
 
-## 🔧 Libraries & Tools
+## Libraries & Tools
 
 - **Pandas**: For data manipulation and preprocessing.
 - **NumPy**: For numerical operations.

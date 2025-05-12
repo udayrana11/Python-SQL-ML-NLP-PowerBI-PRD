@@ -1,17 +1,17 @@
-# 🏦 Loan Approval Prediction – Data Preprocessing & Modeling
+# Loan Approval Prediction – Data Preprocessing & Modeling
 
 This project aims to prepare and analyze a loan approval dataset to build predictive models that classify whether a loan will be approved.
 
 ---
 
-## 📌 Objective
+## Objective
 
 To perform end-to-end data preprocessing, handle imbalances, and train multiple classification models (Logistic Regression, XGBoost, SVM, etc.) for loan approval prediction.
 
 
 ---
 
-## 🔍 Steps Performed
+## Steps Performed
 
 ### 1. Exploratory Data Analysis (EDA)
 - Plotted distributions (Histograms, KDE, Boxplots) for numeric columns.
@@ -44,7 +44,7 @@ To perform end-to-end data preprocessing, handle imbalances, and train multiple 
 
 ---
 
-## 🔧 Libraries Used
+## Libraries Used
 
 - `Pandas`, `NumPy`
 - `Matplotlib`, `Seaborn`
@@ -54,7 +54,7 @@ To perform end-to-end data preprocessing, handle imbalances, and train multiple 
 
 ---
 
-## 🚀 Model Evaluation
+## Model Evaluation
 
 - Train and compare the following models:
   - Logistic Regression
@@ -73,11 +73,11 @@ To perform end-to-end data preprocessing, handle imbalances, and train multiple 
 
 > **Note**: Due to size limitations, the dataset is not included in this repository. You can download it here:
 
-[📥 Click here to download the dataset (Google Drive)](https://drive.google.com/file/d/1VRffer1vnCA7vB5xUaz7cMsu1ymC5H3k/view?usp=drive_link)
+[Click here to download the dataset (Google Drive)](https://drive.google.com/file/d/1VRffer1vnCA7vB5xUaz7cMsu1ymC5H3k/view?usp=drive_link)
 
 ---
 
-## 📸 Visuals
+## Visuals
 
  `/images` folder: https://drive.google.com/drive/folders/14a2V9qMFj_FPDsC_Eqxpfrtz1zBDu6oO?usp=drive_link
 

@@ -1,10 +1,10 @@
-# 🛍️ Retail Sales Prediction - Regression Models
+# Retail Sales Prediction - Regression Models
 
 A regression-based machine learning project to predict outlet sales using the BigMart dataset. This repository explores multiple linear and non-linear regression algorithms with detailed evaluation, visualization, and model tuning.
 
 ---
 
-## 📊 Project Summary
+## Project Summary
 
 We aim to predict **Item_Outlet_Sales** based on a variety of item and outlet features using several regression models. Our goal is to build a robust, interpretable, and accurate model that generalizes well to unseen data.
 
@@ -24,7 +24,7 @@ We aim to predict **Item_Outlet_Sales** based on a variety of item and outlet fe
 
 ---
 
-## 📌 Key Insights
+## Key Insights
 
 - **Polynomial Regression (degree 2)** outperformed all other models by effectively capturing non-linear interactions.
 - **Tree-based models (Random Forest & XGBoost)** overfit the training data. Regularization needed.
@@ -33,7 +33,7 @@ We aim to predict **Item_Outlet_Sales** based on a variety of item and outlet fe
 
 ---
 
-## 🚀 Recommendations & Next Steps
+## Recommendations & Next Steps
 
 ### ✅ Immediate Fixes
 - **Transform Skewed Features** (`Item_Visibility`, `Item_MRP`) using `log` or `Box-Cox`.
@@ -51,7 +51,7 @@ We aim to predict **Item_Outlet_Sales** based on a variety of item and outlet fe
 
 ---
 
-## 📚 Tech Stack
+## Tech Stack
 
 - Python (Pandas, NumPy, Scikit-Learn, XGBoost, Seaborn, Matplotlib)
 - Jupyter Notebooks
@@ -59,7 +59,7 @@ We aim to predict **Item_Outlet_Sales** based on a variety of item and outlet fe
 
 ---
 
-## 🧠 Future Scope
+## Future Scope
 
 - Implement SHAP for model explainability
 - Feature engineering (interactions, encodings)

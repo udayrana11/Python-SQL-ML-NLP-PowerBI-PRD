@@ -12,7 +12,7 @@ This project focuses on building a machine learning model to predict customer ch
 
 ---
 
-## 🧰 Libraries Used
+## Libraries Used
 
 - `pandas`, `numpy`: Data manipulation and analysis
 - `matplotlib`, `seaborn`: Data visualization
@@ -24,7 +24,7 @@ This project focuses on building a machine learning model to predict customer ch
 
 ---
 
-## ⚙️ Workflow
+## Workflow
 
 ### 1. Data Preprocessing
 - **Data cleaning**: Removed `customerID` column, converted `TotalCharges` to numeric (replacing blanks with the mode of `MonthlyCharges`).
@@ -43,7 +43,7 @@ This project focuses on building a machine learning model to predict customer ch
 
 ---
 
-## 🤖 Models Trained
+## Models Trained
 
 ### Models Used:
 - **Logistic Regression**
@@ -88,9 +88,9 @@ This project focuses on building a machine learning model to predict customer ch
 
 ---
 
-## 🔧 Hyperparameter Tuning
+## Hyperparameter Tuning
 
-## 🎯 Post-Tuning Evaluation & Insights
+## Post-Tuning Evaluation & Insights
 
 After hyperparameter tuning (GridSearchCV on 5 folds), here's the performance summary:
 
@@ -100,14 +100,14 @@ After hyperparameter tuning (GridSearchCV on 5 folds), here's the performance su
 | Support Vector Machine | `{'svc__C': 10, 'svc__gamma': 0.001, 'svc__kernel': 'rbf'}`          | 0.8020   | 0.6831    | 0.5065 | 0.5817   | 0.8533  |
 | Random Forest          | `{'max_depth': 10, 'max_features': 'log2', 'min_samples_split': 10}`| 0.7984   | 0.6911    | 0.4674 | 0.5576   | 0.8552  |
 
-### 📊 Confusion Matrices:
+### Confusion Matrices:
 - **Logistic Regression**: `[[936, 90], [183, 200]]`
 - **SVM**: `[[936, 90], [189, 194]]`
 - **Random Forest**: `[[946, 80], [204, 179]]`
 
 ---
 
-## 🧠 Observations
+## Observations
 
 1. **Model performance remains consistent**, with slight gains in precision post-tuning.
 2. **Logistic Regression** remains the **most balanced** across all key metrics:
@@ -125,7 +125,7 @@ After hyperparameter tuning (GridSearchCV on 5 folds), here's the performance su
 
 ---
 
-## 🔜 Next Steps
+## Next Steps
 
 - For **even higher precision**, consider SVM or Random Forest depending on your use-case tolerance for lower recall.
 - **Normalize or log-transform `TotalCharges`** if using tree-based models to reduce skewness and improve generalization.

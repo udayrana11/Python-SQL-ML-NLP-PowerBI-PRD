@@ -66,7 +66,7 @@ Students (16 – 20 yrs) struggle to choose careers; existing tools are text-hea
 ---
 
 ## 7. User Stories
-<!-- Jira link; - will add shortly
+ Jira link; - will add shortly
 
 ---
 

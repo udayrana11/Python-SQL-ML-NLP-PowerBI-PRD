@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Udaybhan Rana
 
-🎯 **Product Leader | Data Enthusiast | AI/ML-Driven Builder**
+🎯 **Product Leader | Data Enthusiast | GenAI/ML-Driven Builder**
 
 I’m a data-driven product manager with 8+ years of experience at the intersection of **business**, **analytics**, and **technology**. I’ve built AI-powered products from scratch — from wireframes to deployment — and scaled user-facing platforms using insights from Python, SQL, and real-time user feedback.
 

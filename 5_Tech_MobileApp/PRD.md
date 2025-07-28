@@ -71,9 +71,9 @@ Students (16 – 20 yrs) struggle to choose careers; existing tools are text-hea
 ---
 
 ## 8. UX & Flow Links
-- **Low-fi wireframes:** *link here*  - will add shortly
+- **Low-fi wireframes:** *https://github.com/udayrana11/Python-SQL-ML-NLP-PowerBI-PRD/blob/main/5_Tech_MobileApp/WireFrame.excalidraw.png*
 - **High-fi Figma prototype:** *link here* - will add shortly
-- **60-sec demo video:** *link here* - will add shortly
+- **60-sec demo video:** *https://www.linkedin.com/posts/upifyme_upifyme-careerdiscovery-studentsuccess-activity-7285716496591331328-WwPm?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC4UICUB9ZwMD2wgEYEtG8x1uhMQ3kv--rM*
 
 ---
 

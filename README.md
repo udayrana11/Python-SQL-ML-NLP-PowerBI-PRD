@@ -8,7 +8,7 @@ I’m a data-driven product manager with 8+ years of experience at the intersect
 
 ## 🔧 Tech & Tools
 
-- **Languages**: Python, SQL, R  
+- **Languages**: Python, SQL
 - **Data & Analytics**: Power BI, Pandas, Scikit-learn, Excel, A/B Testing  
 - **Product**: Roadmaps, PRDs, Jira, Agile, MoSCoW, RICE, GTM Strategy  
 - **Other**: Git, Markdown, REST APIs, Machine Learning, LLMs  
